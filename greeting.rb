@@ -1,4 +1,4 @@
 File:greeting.#!/usr/bin/env ruby -wKU
 def greeting
-  puts "Hello World"
+    puts "Hello World"
 end
